@@ -4,7 +4,7 @@ body {
 margin: 0%; padding: 0%;
 background-color: #12141D;
 overflow-x: hidden;
-
+width:100%
 }
 
 header{
@@ -844,13 +844,14 @@ top: 10%;
     flex-direction: column;       
     gap: 20px;
     margin-top: 40px;
+   
   }
 
   /* 5. Individual Card Resets */
   .card1,
   .card2,
   .card3 {
-    width: 100%;                  
+    width: 90%;                  
     height: auto;                 
     padding: 24px 20px;
   }
