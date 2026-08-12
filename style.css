@@ -127,22 +127,22 @@ display: flex; gap: 24px; margin-top: 80px; width:100%
 }
 .card1{
 background-color: white; border:1px solid#e0e0e0 ;
-padding: 20px; width: 80%; height: 240px; border-bottom: 6px solid #12141D; max-width:390px
+padding: 20px; width: 80%; height: 240px; border-bottom: 6px solid #12141D; max-width:390px;
 }
 .card2{
 background-color: white; border: 1px solid #E0E0E0;
-padding: 20px; width: 80%; height: 240px; border-bottom: 6px solid #CCFF8B;  max-width:390px
+padding: 20px; width: 80%; height: 240px; border-bottom: 6px solid #CCFF8B;  max-width:390px;
 }
 .card3{
 background-color: white; border:1px solid#e0e0e0 ;
-padding: 20px; width: 80%; height: 240px; border-bottom: 6px solid #12141D;  max-width:390px
+padding: 20px; width: 80%; height: 240px; border-bottom: 6px solid #12141D;  max-width:390px;
 }
 
 
 
 .cardtext{
 opacity: 70%; font-weight: 300px; line-height: 30px; letter-spacing: 0px;
-font-size: 18px; font-family:"Inter", sans-serif;
+font-size: 18px; font-family:"Inter", sans-serif; width:90%;
 }
 
 
