@@ -799,6 +799,7 @@ top: 10%;
     letter-spacing: -1px;         
     margin-top: 20px;
     margin-bottom: 24px;
+    margin-left:0%;width:80%;
   }
 
   /* 3. Paragraph Offset Reset */
